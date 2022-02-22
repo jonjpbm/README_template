@@ -6,6 +6,10 @@ Simple overview of use/purpose.
 
 An in-depth paragraph about your project and overview of use.
 
+## To do
+
+Things that you know need to be done to the code.
+
 ## Getting Started
 
 ### Dependencies and Prerequisites
@@ -36,7 +40,7 @@ code blocks for commands
 code blocks for commands
 ```
 
-## Help
+## Help and Gotchas
 
 Any advise for common problems or issues.
 ```
